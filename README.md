@@ -8,7 +8,6 @@ I’m a first-year engineering student passionate about **software development, 
 - 🎓 Engineering student with strong skills in **design, prototyping, and analysis**  
 - 🛠️ Experienced with **mechanical projects** (diffusers, seeders, agrotunnels) and **software development** (React, Supabase, Webpack, Prisma)  
 - 📊 Interested in **data workflows** — cleaning, visualization, and optimization with Python, SQL, and Excel  
-- 🤝 Background in **teamwork, coaching, and youth development**  
 - 🥏 Varsity **frisbee athlete**, bringing energy and focus into everything I do  
 
 ---
