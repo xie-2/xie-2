@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Eric Xie  
 
-I’m a first-year engineering student passionate about **software development, mechanical design, and data-driven problem solving**. I enjoy combining **engineering principles** with modern **software tools** to build practical and creative solutions.  
+I’m a second-year engineering student passionate about **software development, mechanical design, and data-driven problem solving**. I enjoy combining **engineering principles** with modern **software tools** to build practical and creative solutions.  
 
 ---
 
