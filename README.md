@@ -34,7 +34,7 @@ I’m a second-year engineering student passionate about **software development,
 
 ## 🌱 Current Focus  
 - Exploring how **engineering + data** can solve real-world problems  
-- Developing projects that bridge **mechanical design** and **software systems**  
+- Developing projects that solve real problems using **software systems**  
 - Building **strength and explosiveness** (on and off the frisbee field 💪)  
 
 ---
