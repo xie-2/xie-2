@@ -5,10 +5,10 @@ I’m a second-year electrical & artificial intelligence systems engineering stu
 ---
 
 ##  About Me  
-- 🎓 Engineering student with strong skills in **design, prototyping, and analysis**  
-- 🛠️ Experienced with **mechanical projects** (diffusers, seeders, agrotunnels) and **software development** (React, Supabase, Webpack, Prisma)  
-- 📊 Interested in **making fun apps**, designing cool solutions to problems and **learning new tech stacks**
-- 🥏 Varsity **frisbee athlete**, bringing energy and focus into everything I do
+-  Engineering student with strong skills in **design, prototyping, and analysis**  
+-  Experienced with **mechanical projects** (diffusers, seeders, agrotunnels) and **software development** (React, Supabase, Webpack, Prisma)  
+-  Interested in **making fun apps**, designing cool solutions to problems and **learning new tech stacks**
+-  Varsity **frisbee athlete**, bringing energy diving around on the field
 
 ---
 
