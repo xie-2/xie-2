@@ -4,11 +4,11 @@ I’m a second-year electrical & artificial intelligence systems engineering stu
 
 ---
 
-## ⚡ About Me  
+##  About Me  
 - 🎓 Engineering student with strong skills in **design, prototyping, and analysis**  
 - 🛠️ Experienced with **mechanical projects** (diffusers, seeders, agrotunnels) and **software development** (React, Supabase, Webpack, Prisma)  
-- 📊 Interested in **data workflows** — cleaning, visualization, and optimization with Python, SQL, and Excel  
-- 🥏 Varsity **frisbee athlete**, bringing energy and focus into everything I do  
+- 📊 Interested in **making fun apps**, designing cool solutions to problems and **learning new tech stacks**
+- 🥏 Varsity **frisbee athlete**, bringing energy and focus into everything I do
 
 ---
 
@@ -43,14 +43,14 @@ I’m a second-year electrical & artificial intelligence systems engineering stu
 ![Onshape](https://img.shields.io/badge/Onshape-185199?style=for-the-badge&logo=onshape&logoColor=white)
 ---
 
-## 🌱 Current Focus  
-- Exploring how **engineering + data** can solve real-world problems  
+##  Current Focus  
+- Exploring how **engineering + software** can solve real-world problems  
 - Developing projects that solve real problems using **software systems**  
 - Building **strength and explosiveness** (on and off the frisbee field 💪)  
 
 ---
 
-## 📫 Connect  
+##  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericxie-hz/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eric-Xie-hz)  
 
