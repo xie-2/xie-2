@@ -28,11 +28,11 @@ always       → picking up a new stack for fun
 
 ### ▶ Now building
 
-| | Project | What it is |
-|---|---|---|
-| 🟣 | [**Relay**](https://www.exie.ca/#/project/relay) | Multi-tenant, white-label platform for scheduling creator videos to YouTube, Instagram and TikTok. React, Express, Prisma, PostgreSQL, S3 |
-| 🔵 | [**Multi-Model ML Pipeline**](https://www.exie.ca/#/project/ml-pipeline) | Benchmarking baseline, tree-ensemble and PyTorch MLP models under one shared train/val/test protocol |
-| 🟣 | [**RPS-1 Vision System**](https://www.exie.ca/#/project/rps-vision) | Real-time hand-shape classification from a webcam, paired with a Nash-equilibrium strategy for two-hand Rock-Paper-Scissors |
+| # | Title | Album | Date added |
+|:-:|---|---|---|
+| 1 | [**Relay**](https://www.exie.ca/#/project/relay)<br><sub>React · Express · Prisma · PostgreSQL · AWS S3</sub> | Full-stack, cloud | Sep 2026 |
+| 2 | [**Multi-Model ML Pipeline**](https://www.exie.ca/#/project/ml-pipeline)<br><sub>Python · scikit-learn · PyTorch · XGBoost</sub> | Machine learning | Sep 2026 |
+| 3 | [**RPS-1 Vision System**](https://www.exie.ca/#/project/rps-vision)<br><sub>Python · OpenCV · NumPy · game theory</sub> | Computer vision | Sep 2026 |
 
 ### Previously
 
