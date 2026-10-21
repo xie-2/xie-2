@@ -9,7 +9,8 @@
 
 ## Hi, I'm Eric
 
-Electrical & AI Systems Engineering · Year 3 · Western University
+Electrical & AI Systems Engineering · Year 3 · Western University<br>
+Dean's Honor List · Toronto, ON
 
 <a href="https://www.exie.ca"><img src="https://img.shields.io/badge/Visit_my_website-exie.ca-1DB954?style=for-the-badge" alt="Visit my website at exie.ca"></a>
 
@@ -36,7 +37,7 @@ always       → picking up a new stack for fun
 
 ### Previously
 
-Bank of Montreal · Ougan Technology · The Green Top Technology
+Bank of Montreal · Ougan Technology
 
 ### Stack
 
