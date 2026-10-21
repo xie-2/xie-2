@@ -34,22 +34,9 @@ always       → picking up a new stack for fun
 | 🔵 | [**Multi-Model ML Pipeline**](https://www.exie.ca/#/project/ml-pipeline) | Benchmarking baseline, tree-ensemble and PyTorch MLP models under one shared train/val/test protocol |
 | 🟣 | [**RPS-1 Vision System**](https://www.exie.ca/#/project/rps-vision) | Real-time hand-shape classification from a webcam, paired with a Nash-equilibrium strategy for two-hand Rock-Paper-Scissors |
 
-### Shipped
+### Previously
 
-- [**Serverless Inventory & Invoicing**](https://www.exie.ca/#/project/inventory-invoicing) (Jan 2026): Spring Boot and Node.js backend with row-level locking, plus PDF invoices sent through S3 and SES
-- [**Architech**](https://www.exie.ca/#/project/architech) (Nov 2025): AI diagramming tool built on React, ReactFlow and Gemini, with real-time cloud sync
-- [**Instagram Messaging Bot**](https://www.exie.ca/#/project/instagram-bot) (May 2025): personalized outreach to 100+ leads, with 80% less manual data cleaning
-- [**Customer Sentiment Analysis**](https://www.exie.ca/#/project/sentiment-analysis) (Jan 2025): Naive Bayes retention model, 85% accuracy on 1,000+ records
-
-<sub>Every project has its own page on [exie.ca/#/projects](https://www.exie.ca/#/projects).</sub>
-
-### Experience
-
-| Role | Where | When |
-|---|---|---|
-| [Application Software Developer](https://www.exie.ca/#/experience/bmo) | Bank of Montreal, Toronto | May – Aug 2026 |
-| [Frontend Developer & QA Intern](https://www.exie.ca/#/experience/ougan) | Ougan Technology, Hangzhou | May – Aug 2025 |
-| [Software QA Intern](https://www.exie.ca/#/experience/green-top) | The Green Top Technology, Vaughan | Jul – Aug 2024 |
+Bank of Montreal · Ougan Technology · The Green Top Technology
 
 ### Stack
 
