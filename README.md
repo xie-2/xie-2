@@ -12,10 +12,6 @@
 Electrical & AI Systems Engineering · Year 3 · Western University<br>
 Dean's Honor List · Toronto, ON
 
-<a href="https://www.exie.ca"><img src="https://img.shields.io/badge/Visit_my_website-exie.ca-1DB954?style=for-the-badge" alt="Visit my website at exie.ca"></a>
-
-<sub>Scroll once on the site and someone throws a frisbee at me. Click the disc to block it.</sub>
-
 </div>
 
 I mostly spend my time on machine learning, computer vision, and building web apps. I'm also a varsity frisbee player, usually found diving for discs I probably shouldn't be going for.
