@@ -1,6 +1,23 @@
+<div align="center">
+
+<a href="https://www.exie.ca">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/walk-dark.gif">
+    <img src="assets/walk-light.gif" alt="Hand-drawn Eric walking while looking at his phone" height="220">
+  </picture>
+</a>
+
 ## Hi, I'm Eric
 
-Electrical & AI Systems Engineering at Western University. I mostly spend my time on machine learning, computer vision, and building web apps. Also a varsity frisbee player, usually found diving for discs I probably shouldn't be going for.
+Electrical & AI Systems Engineering · Year 3 · Western University
+
+<a href="https://www.exie.ca"><img src="https://img.shields.io/badge/Visit_my_website-exie.ca-1DB954?style=for-the-badge" alt="Visit my website at exie.ca"></a>
+
+<sub>Scroll once on the site and someone throws a frisbee at me. Click the disc to block it.</sub>
+
+</div>
+
+I mostly spend my time on machine learning, computer vision, and building web apps. I'm also a varsity frisbee player, usually found diving for discs I probably shouldn't be going for.
 
 ```
 currently    → teaching a webcam to play a strategic Rock-Paper-Scissors variant
@@ -8,6 +25,31 @@ digging into → how models fail, not just how well they score
 building     → backend systems that recover when things go wrong
 always       → picking up a new stack for fun
 ```
+
+### ▶ Now building
+
+| | Project | What it is |
+|---|---|---|
+| 🟣 | [**Relay**](https://www.exie.ca/#/project/relay) | Multi-tenant, white-label platform for scheduling creator videos to YouTube, Instagram and TikTok. React, Express, Prisma, PostgreSQL, S3 |
+| 🔵 | [**Multi-Model ML Pipeline**](https://www.exie.ca/#/project/ml-pipeline) | Benchmarking baseline, tree-ensemble and PyTorch MLP models under one shared train/val/test protocol |
+| 🟣 | [**RPS-1 Vision System**](https://www.exie.ca/#/project/rps-vision) | Real-time hand-shape classification from a webcam, paired with a Nash-equilibrium strategy for two-hand Rock-Paper-Scissors |
+
+### Shipped
+
+- [**Serverless Inventory & Invoicing**](https://www.exie.ca/#/project/inventory-invoicing) (Jan 2026): Spring Boot and Node.js backend with row-level locking, plus PDF invoices sent through S3 and SES
+- [**Architech**](https://www.exie.ca/#/project/architech) (Nov 2025): AI diagramming tool built on React, ReactFlow and Gemini, with real-time cloud sync
+- [**Instagram Messaging Bot**](https://www.exie.ca/#/project/instagram-bot) (May 2025): personalized outreach to 100+ leads, with 80% less manual data cleaning
+- [**Customer Sentiment Analysis**](https://www.exie.ca/#/project/sentiment-analysis) (Jan 2025): Naive Bayes retention model, 85% accuracy on 1,000+ records
+
+<sub>Every project has its own page on [exie.ca/#/projects](https://www.exie.ca/#/projects).</sub>
+
+### Experience
+
+| Role | Where | When |
+|---|---|---|
+| [Application Software Developer](https://www.exie.ca/#/experience/bmo) | Bank of Montreal, Toronto | May – Aug 2026 |
+| [Frontend Developer & QA Intern](https://www.exie.ca/#/experience/ougan) | Ougan Technology, Hangzhou | May – Aug 2025 |
+| [Software QA Intern](https://www.exie.ca/#/experience/green-top) | The Green Top Technology, Vaughan | Jul – Aug 2024 |
 
 ### Stack
 
@@ -46,4 +88,4 @@ always       → picking up a new stack for fun
 
 ### Find me
 
-[LinkedIn](https://www.linkedin.com/in/ericxie-hz/) · [Email](mailto:exie23@uwo.ca)
+[Website](https://www.exie.ca) · [Resume](https://www.exie.ca/EricXie_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/ericxie-hz/) · [Email](mailto:exie23@uwo.ca)
