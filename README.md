@@ -40,16 +40,7 @@ Bank of Montreal · Ougan Technology · The Green Top Technology
 
 ### Stack
 
-```
-♫  stack.playlist                                         ▶ on repeat
-
-#   track                album          ft.
-1   Python               ML & Vision    PyTorch · scikit-learn · XGBoost · OpenCV
-2   TypeScript           Web            React · Node.js · Express · Prisma
-3   Java                 Backend        Spring Boot · PostgreSQL
-4   C++ · SQL · Verilog  Systems        Quartus · Linux
-5   Docker               Ship it        AWS · Supabase · Vercel · Git
-```
+<img src="https://skillicons.dev/icons?i=py,ts,java,cpp,pytorch,sklearn,opencv,react,nodejs,spring,postgres,docker,aws,git&perline=14" alt="Python, TypeScript, Java, C++, PyTorch, scikit-learn, OpenCV, React, Node.js, Spring, PostgreSQL, Docker, AWS, Git" height="36">
 
 ### Find me
 
