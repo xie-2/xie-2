@@ -40,7 +40,7 @@ Bank of Montreal · Ougan Technology · The Green Top Technology
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=py,ts,java,cpp,pytorch,sklearn,opencv,react,nodejs,spring,postgres,docker,aws,git&perline=14" alt="Python, TypeScript, Java, C++, PyTorch, scikit-learn, OpenCV, React, Node.js, Spring, PostgreSQL, Docker, AWS, Git" height="36">
+Python · TypeScript · Java · C++ · SQL · PyTorch · scikit-learn · OpenCV · React · Node.js · Spring Boot · PostgreSQL · Docker · AWS · Git
 
 ### Find me
 
